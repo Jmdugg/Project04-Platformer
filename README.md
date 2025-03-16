@@ -1,12 +1,10 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
-
-Description
+2D platformer 03.16.2025
 
 ## Implementation
-Which features you included.
+player animations, multiple levels with increasing difficulty, some sound, and enemies.
 
 ## References
 
@@ -17,3 +15,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Josephine Dugger
